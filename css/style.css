@@ -29,5 +29,22 @@ img {
 }
 
 input {
+    border-radius: 4px;
+    background-color: peachpuff;
+    border: 1px solid coral;
     width: 100%;
+    padding: 4px;
+    font-family: math;
+}
+
+form>button {
+    padding: 18px;
+    border-radius: 18px;
+    border: 1px solid coral;
+    background-color: peachpuff;
+}
+
+#reset-btn {
+    background-color: brown;
+    color: white;
 }
