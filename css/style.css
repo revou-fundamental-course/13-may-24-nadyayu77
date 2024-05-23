@@ -11,8 +11,14 @@
     margin: 0;
 }
 
+h1{
+    text-align: center;
+    background-color: coral;
+    color: white
+}
+
 #switch-keliling {
-    background-color: white;
+    background-color: lightblue;
     color: blue;
     padding-top: 12px;
     padding-bottom: 12px;
@@ -49,3 +55,7 @@ form>button {
     color: white;
 }
 
+body {
+    background-color: lightblue;
+    color: black
+}
