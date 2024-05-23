@@ -11,3 +11,10 @@ function hideOrShow() {
         document.getElementById('keliling-section').style.display = 'hide';
 }
     }
+
+function validation() {
+    let alasvalue = document.getElementById('alas-input').value;
+    let tinggivalue = document.getElementById('tinggi-input').value;
+    console.log(alasvalue);
+    console.log(tinggivalue);
+}
